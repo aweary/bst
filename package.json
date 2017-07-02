@@ -1,0 +1,8 @@
+{
+  "name": "@aweary/bst",
+  "version": "0.0.1",
+  "description": "Binary search tree implementation",
+  "main": "index.js",
+  "author": "Brandon Dail",
+  "license": "MIT"
+}
